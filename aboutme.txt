@@ -1,4 +1,4 @@
-<span id="a"><span style="color:red;">root</span>@Santoosh</span>:<span id="b">~</span><span id="c">$</span> whoami
+<span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> whoami
 <p> Santosh s.s.t @Santosh </p>
 <span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> cat about_me.txt
 <p>Hey! I am Santosh from India, and I am an Ethical Hacker, Bug Bounty Researcher and a Cybersecurity Enthusiast. I am currently Completed my Bachelor's in BCA. I love computers and tinkering! Wanna check my GitHub repos? <a target="_blank" href="https://github.com/devurl/">There you go.</a></p>
